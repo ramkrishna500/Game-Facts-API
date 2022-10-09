@@ -103,5 +103,8 @@
         "id": 26,
         "fact": "Geralt also appears in the game Soulcaliber VI" 
     },
-    {}
+    {{
+        "id": 26,
+        "fact": "Geralt also appears in the game Soulcaliber VI" 
+    },}
 ]
